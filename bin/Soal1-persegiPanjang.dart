@@ -1,8 +1,8 @@
-int luas (int p, int l) {
+int luas(int p, int l) {
   return p * l;
 }
 
-int keliling (int p, int l) {
+int keliling(int p, int l) {
   return 2 * (p + l);
 }
 
