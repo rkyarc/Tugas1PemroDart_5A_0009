@@ -1,17 +1,11 @@
-# minggu1
+## TUGAS 1
+<img width="1054" height="780" alt="image" src="https://github.com/user-attachments/assets/292eeaf1-fa0e-4f1f-8ca5-c68cb56e7ba7" />
 
-A new Flutter project.
+## TUGAS 2
+<img width="885" height="749" alt="image" src="https://github.com/user-attachments/assets/adc9b664-6434-4e3d-9375-72bc362c54ea" />
 
-## Getting Started
+## TUGAS 3
+<img width="948" height="790" alt="image" src="https://github.com/user-attachments/assets/3a6118c4-d66f-43a9-996d-2e15818a80cf" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## TUGAS 4
+<img width="928" height="805" alt="image" src="https://github.com/user-attachments/assets/f317c0b9-4482-42fd-a0e5-17f12f3115e6" />
